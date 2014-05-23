@@ -1,14 +1,14 @@
 Getting and Cleaning Data
 =====================
 
-# Assignment for the course Getting and Cleaning Data
+## Assignment for the course Getting and Cleaning Data
 
-## What's included in this repo
+### What's included in this repo
 * README.md: text file describing how the script work
 * run_analysis.R: R script with the code required to produced the tidy data set required for this assignment
 * OUTPUT.txt: final output, tidy data set required for this assignment
 
-# How does the script work
+### How does the script work?
 * The raw data from the Samsung experiment must be downloaded from the following address:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 * The data must then be unzipped into the working directory
